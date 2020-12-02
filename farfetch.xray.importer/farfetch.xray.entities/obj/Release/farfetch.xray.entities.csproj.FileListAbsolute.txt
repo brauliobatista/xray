@@ -1,0 +1,6 @@
+C:\git\farfetch.xray.importer\farfetch.xray.entities\bin\Release\farfetch.xray.entities.dll
+C:\git\farfetch.xray.importer\farfetch.xray.entities\bin\Release\farfetch.xray.entities.pdb
+C:\git\farfetch.xray.importer\farfetch.xray.entities\obj\Release\farfetch.xray.entities.csprojAssemblyReference.cache
+C:\git\farfetch.xray.importer\farfetch.xray.entities\obj\Release\farfetch.xray.entities.csproj.CoreCompileInputs.cache
+C:\git\farfetch.xray.importer\farfetch.xray.entities\obj\Release\farfetch.xray.entities.dll
+C:\git\farfetch.xray.importer\farfetch.xray.entities\obj\Release\farfetch.xray.entities.pdb

@@ -1,0 +1,15 @@
+{
+    "fields": {
+        "project": {
+            "key": "FC"
+        },
+        "issuetype": {
+            "name": "Test Execution"
+        },
+        "summary": "[XRAY-WORKSHOP] Automated Tests Execution",
+        "labels": ["xray-workshop"]
+    },
+    "xrayFields": {
+        "testPlanKey": "FC-2555"
+    }
+}

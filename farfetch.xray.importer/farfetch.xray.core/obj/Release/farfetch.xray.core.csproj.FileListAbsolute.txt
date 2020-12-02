@@ -1,0 +1,11 @@
+C:\git\farfetch.xray.importer\farfetch.xray.core\bin\Release\farfetch.xray.core.dll
+C:\git\farfetch.xray.importer\farfetch.xray.core\bin\Release\farfetch.xray.core.pdb
+C:\git\farfetch.xray.importer\farfetch.xray.core\bin\Release\farfetch.xray.entities.dll
+C:\git\farfetch.xray.importer\farfetch.xray.core\bin\Release\Newtonsoft.Json.dll
+C:\git\farfetch.xray.importer\farfetch.xray.core\bin\Release\farfetch.xray.entities.pdb
+C:\git\farfetch.xray.importer\farfetch.xray.core\bin\Release\Newtonsoft.Json.xml
+C:\git\farfetch.xray.importer\farfetch.xray.core\obj\Release\farfetch.xray.core.csprojAssemblyReference.cache
+C:\git\farfetch.xray.importer\farfetch.xray.core\obj\Release\farfetch.xray.core.csproj.CoreCompileInputs.cache
+C:\git\farfetch.xray.importer\farfetch.xray.core\obj\Release\farfetch.xray.core.csproj.CopyComplete
+C:\git\farfetch.xray.importer\farfetch.xray.core\obj\Release\farfetch.xray.core.dll
+C:\git\farfetch.xray.importer\farfetch.xray.core\obj\Release\farfetch.xray.core.pdb

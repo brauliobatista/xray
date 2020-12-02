@@ -1,0 +1,14 @@
+C:\git\farfetch.xray.importer\farfetch.xray.importer\bin\Debug\farfetch.xray.importer.exe.config
+C:\git\farfetch.xray.importer\farfetch.xray.importer\bin\Debug\farfetch.xray.importer.exe
+C:\git\farfetch.xray.importer\farfetch.xray.importer\bin\Debug\farfetch.xray.importer.pdb
+C:\git\farfetch.xray.importer\farfetch.xray.importer\obj\Debug\farfetch.xray.importer.csprojAssemblyReference.cache
+C:\git\farfetch.xray.importer\farfetch.xray.importer\obj\Debug\farfetch.xray.importer.csproj.CoreCompileInputs.cache
+C:\git\farfetch.xray.importer\farfetch.xray.importer\obj\Debug\farfetch.xray.importer.exe
+C:\git\farfetch.xray.importer\farfetch.xray.importer\obj\Debug\farfetch.xray.importer.pdb
+C:\git\farfetch.xray.importer\farfetch.xray.importer\bin\Debug\farfetch.xray.core.dll
+C:\git\farfetch.xray.importer\farfetch.xray.importer\bin\Debug\farfetch.xray.core.pdb
+C:\git\farfetch.xray.importer\farfetch.xray.importer\obj\Debug\farfetch.xray.importer.csproj.CopyComplete
+C:\git\farfetch.xray.importer\farfetch.xray.importer\bin\Debug\farfetch.xray.entities.dll
+C:\git\farfetch.xray.importer\farfetch.xray.importer\bin\Debug\Newtonsoft.Json.dll
+C:\git\farfetch.xray.importer\farfetch.xray.importer\bin\Debug\farfetch.xray.entities.pdb
+C:\git\farfetch.xray.importer\farfetch.xray.importer\bin\Debug\Newtonsoft.Json.xml
