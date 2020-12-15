@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "project": {
+            "key": "FC"
+        },
+        "labels" : ["xray-workshop"]
+    }
+}

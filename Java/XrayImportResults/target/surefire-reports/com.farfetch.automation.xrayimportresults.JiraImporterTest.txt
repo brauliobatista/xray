@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.farfetch.automation.xrayimportresults.JiraImporterTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.916 sec
